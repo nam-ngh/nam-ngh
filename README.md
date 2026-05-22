@@ -11,4 +11,4 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### About me
-Currently exploring the maths of geometry processing & manifold learning :D
+Currently developing differential geometry for manifold learning :D
