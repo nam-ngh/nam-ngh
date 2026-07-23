@@ -19,7 +19,7 @@ Currently developing differential geometry for manifold learning :D
 ### Some things I've built
 
 <div align="center">
-  <img src="LDN-NYC-small" alt="Geodesics under wind" width="600"/>
+  <img src="LDN-NYC-small.png" alt="Geodesics under wind" width="600"/>
 </div>
 
 <div align="center">
