@@ -18,7 +18,7 @@ Currently developing differential geometry for manifold learning :D
 
 ### Some things I've built
 
-<div align="center">
+<div align="left">
   <table>
     <tr>
       <td align="center">
