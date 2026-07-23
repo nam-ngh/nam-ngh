@@ -11,4 +11,17 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### About me
+
+MSc Engineering Maths @ Uni of Bristol
+
 Currently developing differential geometry for manifold learning :D
+
+### Some things I've built
+
+<div align="center">
+  <img src="LDN-NYC-small" alt="Geodesics under wind" width="600"/>
+</div>
+
+<div align="center">
+  <img src="diffusion.gif" alt="Heat diffusion under wind" width="600"/>
+</div>
