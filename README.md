@@ -19,9 +19,16 @@ Currently developing differential geometry for manifold learning :D
 ### Some things I've built
 
 <div align="center">
-  <img src="LDN-NYC-small.png" alt="Geodesics under wind" width="600"/>
-</div>
-
-<div align="center">
-  <img src="diffusion.gif" alt="Heat diffusion under wind" width="600"/>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="LDN-NYC-small.png" alt="Geodesics under wind" width="380"/><br/>
+        <sub>Geodesics under wind</sub>
+      </td>
+      <td align="center">
+        <img src="diffusion.gif" alt="Heat diffusion under wind" width="380"/><br/>
+        <sub>Heat diffusion under wind</sub>
+      </td>
+    </tr>
+  </table>
 </div>
