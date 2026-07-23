@@ -23,11 +23,11 @@ Currently developing differential geometry for manifold learning :D
     <tr>
       <td align="center">
         <img src="LDN-NYC-small.png" alt="Aerial Geodesics under Wind" width="350"/><br/>
-        <sub>Geodesics under wind</sub>
+        <sub>Aerial Geodesics under Wind</sub>
       </td>
       <td align="center">
-        <img src="diffusion.gif" alt="Heat Diffusion under Wind" width="320"/><br/>
-        <sub>Heat diffusion under wind</sub>
+        <img src="diffusion.gif" alt="Heat Diffusion under Wind" width="330"/><br/>
+        <sub>Heat Diffusion under Wind</sub>
       </td>
     </tr>
   </table>
